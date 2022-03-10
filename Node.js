@@ -1,0 +1,5 @@
+const user = 'kaxada'
+const host = 'localhost'
+const database = 'bootcamp_db'
+const password = '123456789'
+const port = '5432'
